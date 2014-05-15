@@ -26,10 +26,10 @@ http://nagaoka.techtalk.jp
 ぜひNDSに参加してください！
 私たちはいつでもあなたの参加を待っています！！
 
-他にも次のようなことをしてくれると���嬉しいです。
+他にも次のようなことをしてくれると嬉しいです。
 
 * 知り合いをNDSに連れて来る
 * TwitterやFacebookでNDSとつぶやく
-* [Issues]()を見て活動を観察する
-* [Issues]()に質問や意見などを投稿する
+* [Issues](https://github.com/NagaokaDevelopersStudy/Studies/issues)を見て活動を観察する
+* [Issues](https://github.com/NagaokaDevelopersStudy/Studies/issues)に質問や意見などを投稿する
 * NDSで発表をする
