@@ -28,8 +28,9 @@ http://nagaoka.techtalk.jp
 
 他にも次のようなことをしてくれると嬉しいです。
 
-* 知り合いをNDSに連れて来る
 * TwitterやFacebookでNDSとつぶやく
 * [Issues](https://github.com/NagaokaDevelopersStudy/Studies/issues)を見て活動を観察する
 * [Issues](https://github.com/NagaokaDevelopersStudy/Studies/issues)に質問や意見などを投稿する
+* [チャット](https://gitter.im/NagaokaDevelopersStudy) を覗いてみる
+* 知り合いをNDSに連れて来る
 * NDSで発表をする
