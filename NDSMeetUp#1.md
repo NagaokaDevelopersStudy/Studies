@@ -24,7 +24,7 @@ http://connpass.com/event/7331
 14:40 | 休憩
 15:00 | @hayajo |
 15:10 | @kasacchiful |
-15:40 | |
+15:40 | @ooooooo_q |
 16:10 | |
 16:40 | 撤収 |
 
