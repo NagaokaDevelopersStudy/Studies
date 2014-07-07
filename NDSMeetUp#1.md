@@ -20,9 +20,10 @@ http://connpass.com/event/7331
 13:00 | @npoi or @dictav | NDS出張版について
 13:10 | @npoi | 未定
 13:40 | @dictav | Swiftに関する何か
-14:10 | |
-14:40 | |
-15:10 | |
+14:10 | @sambaiz |
+14:40 | 休憩
+15:00 | @hayajo |
+15:10 | @kasacchiful |
 15:40 | |
 16:10 | |
 16:40 | 撤収 |
