@@ -22,7 +22,7 @@ http://connpass.com/event/7331
 13:40 | @dictav | Swiftに関する何か
 14:10 | @sambaiz | Chef入門
 14:40 | 休憩
-15:00 | @hayajo |
+15:00 | @hayajo | コマンドラインツール今昔
 15:10 | @kasacchiful |
 15:40 | @ooooooo_q |
 16:10 | |
