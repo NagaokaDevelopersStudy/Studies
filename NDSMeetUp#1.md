@@ -23,9 +23,10 @@ http://connpass.com/event/7331
 14:10 | @sambaiz | Chef入門
 14:40 | 休憩
 15:00 | @hayajo | コマンドラインツール今昔
-15:10 | @kasacchiful |
-15:40 | @ooooooo_q |
-16:10 | |
+15:10 | @kasacchiful | カラダ改造計画（序章）
+15:20 | @ooooooo_q |
+15:50 | |
+16:20 | |
 16:40 | 撤収 |
 
 ## 懇親会
