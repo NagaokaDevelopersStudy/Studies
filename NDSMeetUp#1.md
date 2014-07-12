@@ -28,7 +28,8 @@ http://connpass.com/event/7331
 15:30 | 休憩
 15:45 | @dictav | Swiftに関する何か
 16:00 | @circled | LT(未定) 
-16:05 | LT or 発表 |　募集中！
+16:05 | @bnosuke | 私の自炊スタイル
+16:10 | LT or 発表 |　募集中！
 16:40 | 撤収 |
 
 ※ LT: 5分くらいの短いプレゼン。資料なくてもOK
