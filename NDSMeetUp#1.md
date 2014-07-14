@@ -24,9 +24,9 @@ http://connpass.com/event/7331
 14:25 | @hayajo | コマンドラインツール今昔
 14:40 | @kasacchiful | カラダ改造計画（序章）
 14:55 | @ooooooo_q | 脆弱性の報告制度についてあれこれ
-15:10 | @ritou | 安全な"○○でログイン"の作り方
+15:10 | @ritou | 安全な"○○でログイン"の作り方 | http://www.slideshare.net/ritou/secure-social-loginatndsniigata1-36922216
 15:30 | 休憩
-15:45 | @dictav | Swiftに関する何か
+15:45 | @dictav | Swiftに関する何か | https://speakerdeck.com/dictav/swiftwoshao-sidake
 16:00 | @circled | LT(未定) 
 16:05 | @bnosuke | 私の自炊スタイル
 16:10 | LT or 発表 |　募集中！
@@ -34,6 +34,8 @@ http://connpass.com/event/7331
 
 ※ LT: 5分くらいの短いプレゼン。資料なくてもOK
 
+<!--test-->
+<script async class="speakerdeck-embed" data-id="785cf170ed2301316f57121af30ec4cc" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 ## 懇親会
 17:30 くらいから懇親会を予定しています。
