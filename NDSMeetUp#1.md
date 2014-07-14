@@ -19,7 +19,7 @@ http://connpass.com/event/7331
 12:50 | 開場 |
 13:00 | @dictav | NDS出張版について
 13:10 | @npoi | 簡単なDevOps入門 
-13:40 | @sambaiz | Chef入門 | http://www.slideshare.net/sakataiki/nds-chef
+13:40 | @sambaiz | Chef入門 | https://speakerdeck.com/sambaiz/zhu-fu-tochef
 14:10 | 休憩
 14:25 | @hayajo | コマンドラインツール今昔 | https://t.co/db7tVhkbtt
 14:40 | @kasacchiful | カラダ改造計画（序章）| https://speakerdeck.com/kasacchiful/nds-meetup-in-niigata-number-1
