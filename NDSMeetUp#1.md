@@ -27,7 +27,7 @@ http://connpass.com/event/7331
 15:10 | @ritou | 安全な"○○でログイン"の作り方 | http://www.slideshare.net/ritou/secure-social-loginatndsniigata1-36922216
 15:30 | 休憩
 15:45 | @dictav | Swiftに関する何か | https://speakerdeck.com/dictav/swiftwoshao-sidake
-16:00 | @circled | LT(未定) 
+16:00 | @circled | iBeacon | http://www.slideshare.net/circled9/ibeacon-36954299
 16:05 | @bnosuke | 私の自炊スタイル
 16:10 | LT or 発表 |　募集中！
 16:40 | 撤収 |
