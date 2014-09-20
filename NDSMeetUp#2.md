@@ -19,13 +19,13 @@ http://connpass.com/event/8049
 -----:|-------|------|----
 12:50 | 開場 |
 13:00 | @npoi OR @dictav | NDS出張版について
-13:10 | @ooooooo_q | cookieとXSSの話
-13:40 | @NPoi | Serf/Consulについて
+13:10 | @NPoi | Serf/Consulについて
+13:40 | @fcneet | RaspberryPiでハードウェア制御をしてみよう -Lチカから少しレベルアップしたハードウェア制御のお話-
 14:10 | 休憩
-14:30 | @fcneet | RaspberryPiでハードウェア制御をしてみよう -Lチカから少しレベルアップしたハードウェア制御のお話-
-15:00 | @dictav | アルコールストーブ の作り方
+14:30 | @dictav | アルコールストーブ の作り方
+15:00 | @hayajo | 「はじめてのDocker」
 15:30 | 休憩
-15:50 | @hayajo | 「はじめてのDocker」
+15:50 | 発表者募集中！
 16:20 | LT 募集中！
 16:40 | 撤収 |
 
@@ -39,3 +39,4 @@ http://connpass.com/event/8049
 ## ハッシュタグ
 
 ハッシュタグは #ndsmeetup2 でお願いします
+
