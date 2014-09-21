@@ -23,7 +23,7 @@ http://connpass.com/event/8049
 13:40 | @fcneet | RaspberryPiでハードウェア制御をしてみよう -Lチカから少しレベルアップしたハードウェア制御のお話-
 14:10 | 休憩
 14:30 | @dictav | アルコールストーブ の作り方 | https://speakerdeck.com/dictav/arukorusutobufalsezuo-rifang
-15:00 | @hayajo | 「はじめてのDocker」
+15:00 | @hayajo | 「はじめてのDocker」| https://github.com/hayajo/ndsmeetup2-docker
 15:30 | 休憩
 15:50 | 発表者募集中！
 16:20 | LT 募集中！
