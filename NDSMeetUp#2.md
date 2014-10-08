@@ -20,7 +20,7 @@ http://connpass.com/event/8049
 12:50 | 開場 |
 13:00 | @npoi OR @dictav | NDS出張版について
 13:10 | @NPoi | Serf/Consulについて
-13:40 | @fcneet | RaspberryPiでハードウェア制御をしてみよう -Lチカから少しレベルアップしたハードウェア制御のお話-
+13:40 | @fcneet | RaspberryPiでハードウェア制御をしてみよう -Lチカから少しレベルアップしたハードウェア制御のお話- | http://www.slideshare.net/taisukewatanabe9/raspberrypi-39881048
 14:10 | 休憩
 14:30 | @dictav | アルコールストーブ の作り方 | https://speakerdeck.com/dictav/arukorusutobufalsezuo-rifang
 15:00 | @hayajo | 「はじめてのDocker」| https://github.com/hayajo/ndsmeetup2-docker
