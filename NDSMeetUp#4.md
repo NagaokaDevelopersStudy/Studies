@@ -20,11 +20,12 @@ http://connpass.com/event/10998/
 12:50 | 開場        |                                  |         |
 13:00 | @dictav     | 開会                             |         |
 13:10 | @npoi       | 規約ソリューションについて考える |         |
-13:40 | @nkzn       | もう１度Kotlinの話をしよう       |         |
-14:10 | 休憩        |                                  |         |
-14:40 | @sugaharaaa | Unityミニゲーム作成講座          |         |
-15:40 | 休憩        |                                  |         |
-16:10 | @dictav     | Rocket もう１つの App Container  |         |
+13:40 | @nkzn       | もう１度Kotlinの話をしよう       | http://www.slideshare.net/Nkzn/kotlin-ndsmeetup4        |
+14:10 | nagai       |                                  |         |
+14:40 | 休憩        |                                  |         |
+15:00 | @sugaharaaa | Unityミニゲーム作成講座          |         |
+16:15 | 休憩        |                                  |         |
+16:20 | @dictav     | Rocket もう１つの App Container  | [www.icloud.com/keynote](https://www.icloud.com/keynote/AwBUCAESEF9JtrcfuLeMrpDo6HTT8q0aKSOhEJKWBbKtk35ca8dfxDC-4Tiua-fL0EAkvpOeY3xbPV48huTGNzx6MCUCAQEEIG2zOIvfHtLv0-Y7nKMMt8M6CLxj0LwWCplG7tPyapT6#ndsmeetup4-rocket.key)         |
 16:40 | 撤収        |                                  |         |
 
 
