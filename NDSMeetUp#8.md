@@ -22,11 +22,13 @@ http://connpass.com/event/20401
 | 12:30 |            | 開場 & 設営                    |                  |
 | 13:00 | @dictav    | 開会                           |                  |
 | 13:10 | @ooooooo_q | reftest-runner について        |                  |
-| 13:50 | @circled9  | ReactとMithrilの話             |                  |
-| 14:30 |            | 休憩                           |                  |
-| 14:50 | @nkzn      | 「Javaの人から見たJavaScript」 |                  |
-| 15:20 |            | セッション募集                 |                  |
-| 16:00 |            | LT (参加者募集)                |                  |
+| 13:40 | yukika     | React と Flux について         |                  |
+| 14:20 | @circled9  | ReactとMithrilの話             |                  |
+| 14:50 |            | 休憩                           |                  |
+| 15:00 | @nkzn      | 「Javaの人から見たJavaScript」 |                  |
+| 15:30 |            | セッション募集                 |                  |
+| 15:50 |            | セッション募集                 |                  |
+| 16:10 |            | LT (参加者募集)                |                  |
 | 16:40 | @npoi      | 閉会                           |                  |
 | 16:50 |            | 撤収                           |                  |
 
