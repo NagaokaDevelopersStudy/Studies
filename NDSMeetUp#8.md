@@ -23,7 +23,7 @@ http://connpass.com/event/20401
 | 13:00 | @npoi       | 開会                                 |                  |
 | 13:10 | @dictav     | JavaScript 今昔物語                  |                  |
 | 13:30 | @_yukikayuki| React と Flux について               |                  |
-| 14:00 | @circled9   | ReactとMithrilの話                   |                  |
+| 14:00 | @circled9   | Mithrilの話                          |                  |
 | 14:30 |             | 休憩                                 |                  |
 | 14:50 | @ooooooo_q  | reftest-runner について              |                  |
 | 15:20 | @civic      | むずかしくないJavaScriptのやさしい話 |                  |
