@@ -22,7 +22,7 @@ http://connpass.com/event/20401
 | 12:30 |              | 開場 & 設営                             |                                                              |
 | 13:00 | @npoi        | 開会                                    |                                                              |
 | 13:10 | @dictav      | JavaScript 今昔物語                     | http://gistdeck.github.io/dictav/70ad6cdef9072f68a6b5#1      |
-| 13:30 | @_yukikayuki | React と Flux について                  |                                                              |
+| 13:30 | @_yukikayuki | React と Flux について                  | http://www.slideshare.net/_yukikayuki/react-flux-55108500    |
 | 14:00 | @circled9    | Frontend Fantasy 〜ミスリルの戦士たち〜 | http://www.slideshare.net/circled9/frontend-fantasy-55101692 |
 | 14:30 |              | 休憩                                    |                                                              |
 | 14:50 | @ooooooo_q   | REFTEST-RUNNERでUIのREVIEWを            | https://speakerdeck.com/ooooooo_q/nds-8-reftest              |
